@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/react js-000000?style=for-the-badge&logo=react&logoColor=#00d1f7">
 
-<img src="https://img.shields.io/badge/PHP-3178c6?style=for-the-badge&logo=&logoColor=FF2400"> <img src="https://img.shields.io/badge/Laravel-E5DCDC?style=for-the-badge&logo=laravel&logoColor=FF2400"> 
+<img src="https://img.shields.io/badge/PHP-3178c6?style=for-the-badge&logo=&logoColor=FF2400">
 
 ## Contact with me:
 - 📫 adel.garipovazn@mail.ru
