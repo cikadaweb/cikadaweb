@@ -1,4 +1,4 @@
-# Hi I'm Adel👋
+# Hi I'm Adel :wave:
 ## I'm a Front-end developer.
 
 ## I work in technology stack
@@ -12,4 +12,5 @@
 <img src="https://img.shields.io/badge/PHP-3178c6?style=for-the-badge&logo=&logoColor=FF2400">
 
 ## Contact with me:
-- 📫 adel.garipovazn@mail.ru
+- :speech_balloon: [@a_d_e_l_ga](https://t.me/a_d_e_l_ga)
+- :mailbox: adel.garipovazn@mail.ru
